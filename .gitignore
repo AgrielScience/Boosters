@@ -1,0 +1,12 @@
+.DS_Store
+.Rproj.user
+data
+*_cache
+*_files
+.Rhistory
+/.RData
+.Renviron
+*/Rosbank_Happy_Data_Year⁩/catboost_info/
+*/Rosbank_Happy_Data_Year⁩/submits/
+*/Rosbank_Happy_Data_Year⁩/data/
+

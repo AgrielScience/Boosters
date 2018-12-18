@@ -1,0 +1,13 @@
+.DS_Store
+.Rproj.user
+data
+*_cache
+*_files
+.Rhistory
+/.RData
+.Renviron
+catboost_info
+submits
+data
+.ipynb_checkpoints
+
