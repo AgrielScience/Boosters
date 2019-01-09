@@ -1,6 +1,5 @@
 .DS_Store
 .Rproj.user
-data
 *_cache
 *_files
 .Rhistory
